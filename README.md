@@ -96,27 +96,27 @@ E-Treat is a smart canteen automation system developed using PHP and MySQL. It a
 ### 📑 Admin - Orders
 ![Admin Orders](adminorder.jpeg)
 
-## ⚙️ How to Run the Project
-1.Install XAMPP or WAMP server
-2.Place the project folder inside the htdocs directory
-3.Start Apache and MySQL
-4.Open phpMyAdmin
-5.Create a database (e.g., ecafe)
-6.Import the provided .sql file
-7.Open your browser and go to:
- http://localhost/ecafe
+### ⚙️ How to Run the Project
+
+1. Install XAMPP or WAMP server  
+2. Place the project folder inside the `htdocs` directory  
+3. Start Apache and MySQL  
+4. Open phpMyAdmin  
+5. Create a database (e.g., `ecafe`)  
+6. Import the provided `.sql` file  
+7. Open your browser and go to: http://localhost/ecafe  
 
 ## 📂 Project Structure
-/admin → Admin panel
-/user → User module
-/database → Database file
-/assets → CSS, JS, Images
+- /admin → Admin panel  
+- /user → User module  
+- /database → Database file  
+- /assets → CSS, JS, Images  
 
 ## 👨‍💻 Team Members
-Ms. Athulya Binu
-Ms. Adithya A S
-Ms. Aarya Santhosh
-Ms. Thamara T S
+- Ms. Athulya Binu  
+- Ms. Adithya A S  
+- Ms. Aarya Santhosh  
+- Ms. Thamara T S  
 ## 🏫 Institution
 
 BCM College, Kottayam
