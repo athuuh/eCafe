@@ -1,6 +1,6 @@
 
 # E-Treat-Smart-Canteen-System
-E-Treat is a smart canteen automation system developed using PHP and MySQL. It allows users to browse menus, place orders, and make payments online, while admins manage menu, orders, and sales. Developed as a mini project by Athulya Binu, Aarya Santhosh, Adithya A.S, and Thamara T.S.
+E-Treat: Smart Canteen Automation System is a comprehensive web-based application developed to modernize and streamline the operations of a traditional café or canteen environment. The system is designed using PHP and MySQL, along with front-end technologies such as HTML, CSS, and JavaScript, to provide an interactive and user-friendly platform for both customers and administrators. It enables users to register, log in, browse available menu items, place food and beverage orders, and make secure online payments with ease. On the administrative side, the system provides efficient tools for managing menu items, updating prices, tracking customer orders, and maintaining order history. This project addresses the limitations of conventional manual systems, such as delays in order processing, billing errors, and difficulties in maintaining records. By automating these processes, the system improves accuracy, reduces waiting time, enhances operational efficiency, and delivers a better user experience. Overall, E-Treat serves as a reliable and scalable solution for smart canteen management, demonstrating the effective use of web technologies in solving real-world problems.
 
 ## 🎯 Objectives
 - Automate traditional canteen operations  
